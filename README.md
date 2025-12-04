@@ -14,16 +14,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,cs,fastapi,git,github,docker,aws,linux,vscode" />
 
 ---
+
 ### 🚀 What I’m Working On  
 - Full-stack development 
 - Problem solving 
 - Daily contributions to open-source communities
-
----
-
-### 📊 GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=Elarionitis&show_icons=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarionitis&layout=compact&hide_border=true)
 
 ---
 

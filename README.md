@@ -7,7 +7,7 @@
 🚀 I love turning ideas into software that helps people<br/>
 📫 How to reach me suhanramani@gmail.com 
 
-> “Small improvements every day lead to big achievements.”
+> “The more I learn, the more I realize how much I don't know.”-Albert Einstein
 
 ---
 
@@ -65,9 +65,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 ---
-
 Thanks for visiting — let’s build something amazing together ✨
 <!--
 **Elarionitis/Elarionitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

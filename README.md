@@ -7,8 +7,6 @@
 🚀 I love turning ideas into software that helps people<br/>
 📫 How to reach me suhanramani@gmail.com 
 
->“The more I learn, the more I realize how much I don't know.” — Albert Einstein
-
 
 ---
 

@@ -7,7 +7,7 @@
 🚀 I love turning ideas into software that helps people<br/>
 📫 How to reach me suhanramani@gmail.com 
 
-
+"If you lie to the compiler, it will get its revenge"
 ---
 
 ### 🛠️ Tech Stack

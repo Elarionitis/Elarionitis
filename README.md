@@ -82,13 +82,15 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 - Contributing meaningfully to open source
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elarionitis&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Elarionitis)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarionitis&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Elarionitis)
+<img src="https://streak-stats.demolab.com?user=Elarionitis&theme=github-dark&hide_border=true" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Elarionitis&color=green&style=flat-square&label=Profile+Views" />
 
 </div>
 ---

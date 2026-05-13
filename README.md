@@ -4,7 +4,7 @@
 
 **2nd Year CSE @ IIT Jodhpur**
 
-*Building things, breaking things, understanding things — in that order.*
+*Building things, breaking things, understanding things - in that order.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhan-ramani-b82291323/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suhanramani@gmail.com)
@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a second-year CS undergrad who genuinely enjoys the process of figuring out how things work — even when that means debugging at 2 AM. My interests span ML/AI, full-stack development, cloud infrastructure, and DSA. I'm an open-source contributor in progress and love turning rough ideas into software that's actually useful to people.
+I'm a second-year CS undergrad who genuinely enjoys the process of figuring out how things work - even when that means debugging at 2 AM. My interests span ML/AI, full-stack development, cloud infrastructure, and DSA. I'm an open-source contributor in progress and love turning rough ideas into software that's actually useful to people.
 
 > *"If you lie to the compiler, it will get its revenge."*
 
@@ -23,15 +23,15 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 
 ## Projects
 
-**[SQORA](https://github.com/Elarionitis/sqora)** — AI-powered exam prep platform for JEE/NEET aspirants. Features a Gemini-powered tutor, auto-generated Manim math animations, mock exams, a contest arena, and local TTS — all wired together across a FastAPI backend, React frontend with Three.js, and a Manim worker service.
+**[SQORA](https://github.com/Elarionitis/sqora)** - AI-powered exam prep platform for JEE/NEET aspirants. Features a Gemini-powered tutor, auto-generated Manim math animations, mock exams, a contest arena, and local TTS — all wired together across a FastAPI backend, React frontend with Three.js, and a Manim worker service.
 
-**[Spendly](https://github.com/Elarionitis/Spendly)** — Flutter fintech app for personal and group expense management. Real-time Firestore sync, smart debt-simplification algorithm, interactive spending analytics with FL Chart, and Google Sign-In. Built with Riverpod state management and feature-first architecture.
+**[Spendly](https://github.com/Elarionitis/Spendly)** - Flutter fintech app for personal and group expense management. Real-time Firestore sync, smart debt-simplification algorithm, interactive spending analytics with FL Chart, and Google Sign-In. Built with Riverpod state management and feature-first architecture.
 
-**[Dirac Delivery: Hamiltonian Route Visualizer](https://github.com/Elarionitis/Hamiltonian-Route-Visualizer)** — Interactive Streamlit app that models delivery networks as graphs and explores Hamiltonian cycles via Dirac's Theorem, brute-force search, and a nearest-neighbour heuristic. Built to connect graph theory with real-world routing problems.
+**[Dirac Delivery: Hamiltonian Route Visualizer](https://github.com/Elarionitis/Hamiltonian-Route-Visualizer)** - Interactive Streamlit app that models delivery networks as graphs and explores Hamiltonian cycles via Dirac's Theorem, brute-force search, and a nearest-neighbour heuristic. Built to connect graph theory with real-world routing problems.
 
-**[Plagiarism Checker](https://github.com/Elarionitis/Code_plagiarism_checker)** — Full-stack plagiarism detection tool with a C++ core for sliding-window text similarity analysis, bridged to a minimal web UI via a Node.js/Express server.
+**[Plagiarism Checker](https://github.com/Elarionitis/Code_plagiarism_checker)** - Full-stack plagiarism detection tool with a C++ core for sliding-window text similarity analysis, bridged to a minimal web UI via a Node.js/Express server.
 
-**[Bank Management System](https://github.com/Elarionitis)** — Command-line banking application in C with account creation, deposits, withdrawals, transfers, transaction history, and an admin panel. Uses binary file persistence and password hashing.
+**[Bank Management System](https://github.com/Elarionitis)** - Command-line banking application in C with account creation, deposits, withdrawals, transfers, transaction history, and an admin panel. Uses binary file persistence and password hashing.
 
 ---
 
@@ -76,7 +76,7 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 
 ## Currently Exploring
 
-- ML/AI pipelines — computer vision and model training
+- ML/AI pipelines - computer vision and model training
 - LLM internals, RAG systems, and AI tooling
 - System design and scalable backend patterns
 - Contributing meaningfully to open source
@@ -87,12 +87,10 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 
 <div align="center">
 
-![Suhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elarionitis&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarionitis&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elarionitis&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Elarionitis)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarionitis&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Elarionitis)
 
 </div>
-
 ---
 
 <div align="center">

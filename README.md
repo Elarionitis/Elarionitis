@@ -1,82 +1,103 @@
-# 💫 Hey, I'm Suhan!
+<div align="center">
 
-👨‍🎓 2nd Year CSE @ IIT Jodhpur  
-🌱 Learning, building, and breaking things to understand how they work  
-☁️ Exploring Machine Learning, Development, Cloud, and DSA   
-💻 Open Source contributor in progress  
-🚀 I love turning ideas into software that helps people<br/>
-📫 How to reach me suhanramani@gmail.com 
+# Suhan Ramani
 
-"If you lie to the compiler, it will get its revenge"
----
+**2nd Year CSE @ IIT Jodhpur**
 
-### 🛠️ Tech Stack
+*Building things, breaking things, understanding things — in that order.*
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhan-ramani-b82291323/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suhanramani@gmail.com)
 
-  <!-- Web Dev -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- DevOps / Cloud / OS -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-  <!-- Editor -->
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-  <!-- Data / ML -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-
-  <!-- CAD -->
-  <img src="https://img.shields.io/badge/SolidWorks-CA2C30?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-</p>
-
-
+</div>
 
 ---
 
-### 🚀 What I’m Working On  
-- Full-stack development 
-- Problem solving 
-- Daily contributions to open-source communities
+## About
+
+I'm a second-year CS undergrad who genuinely enjoys the process of figuring out how things work — even when that means debugging at 2 AM. My interests span ML/AI, full-stack development, cloud infrastructure, and DSA. I'm an open-source contributor in progress and love turning rough ideas into software that's actually useful to people.
+
+> *"If you lie to the compiler, it will get its revenge."*
 
 ---
 
-### 🌐 Socials  
+## Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/suhan-ramani-b82291323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**[SQORA](https://github.com/Elarionitis/sqora)** — AI-powered exam prep platform for JEE/NEET aspirants. Features a Gemini-powered tutor, auto-generated Manim math animations, mock exams, a contest arena, and local TTS — all wired together across a FastAPI backend, React frontend with Three.js, and a Manim worker service.
+
+**[Spendly](https://github.com/Elarionitis/Spendly)** — Flutter fintech app for personal and group expense management. Real-time Firestore sync, smart debt-simplification algorithm, interactive spending analytics with FL Chart, and Google Sign-In. Built with Riverpod state management and feature-first architecture.
+
+**[Dirac Delivery: Hamiltonian Route Visualizer](https://github.com/Elarionitis/Hamiltonian-Route-Visualizer)** — Interactive Streamlit app that models delivery networks as graphs and explores Hamiltonian cycles via Dirac's Theorem, brute-force search, and a nearest-neighbour heuristic. Built to connect graph theory with real-world routing problems.
+
+**[Plagiarism Checker](https://github.com/Elarionitis/Code_plagiarism_checker)** — Full-stack plagiarism detection tool with a C++ core for sliding-window text similarity analysis, bridged to a minimal web UI via a Node.js/Express server.
+
+**[Bank Management System](https://github.com/Elarionitis)** — Command-line banking application in C with account creation, deposits, withdrawals, transfers, transaction history, and an admin panel. Uses binary file persistence and password hashing.
+
 ---
-Thanks for visiting — let’s build something amazing together ✨
-<!--
-**Elarionitis/Elarionitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Currently Exploring
+
+- ML/AI pipelines — computer vision and model training
+- LLM internals, RAG systems, and AI tooling
+- System design and scalable backend patterns
+- Contributing meaningfully to open source
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Suhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elarionitis&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarionitis&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+Always up for interesting conversations, collaboration, or just geeking out about tech.
+**[suhanramani@gmail.com](mailto:suhanramani@gmail.com)**
+
+</div>

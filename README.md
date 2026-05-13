@@ -14,8 +14,7 @@
 ---
 
 ## About
-
-I'm a second-year CS undergrad who genuinely enjoys the process of figuring out how things work - even when that means debugging at 2 AM. My interests span ML/AI, full-stack development, cloud infrastructure, and DSA. I'm an open-source contributor in progress and love turning rough ideas into software that's actually useful to people.
+I'm a second-year CS undergrad who genuinely enjoys the process of figuring out how things work - even when that means debugging at 2 AM. My interests span full-stack development, ML/AI, cloud infrastructure, DSA, and competitive programming. I'm an open-source contributor in progress and love turning rough ideas into software that's actually useful to people.
 
 > *"If you lie to the compiler, it will get its revenge."*
 

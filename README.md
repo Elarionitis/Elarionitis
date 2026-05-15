@@ -84,9 +84,7 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 ## GitHub Stats
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Elarionitis&theme=github-dark&hide_border=true" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Elarionitis&color=green&style=flat-square&label=Profile+Views" />

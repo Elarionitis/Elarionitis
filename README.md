@@ -22,6 +22,8 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 
 ## Projects
 
+**[SignEase](https://github.com/Elarionitis/SignEase)** - Full-stack sign language detection app built with Next.js, Flask, MediaPipe, and TensorFlow Lite. It records webcam gestures, extracts hand/body landmarks, runs a lightweight classifier, and returns real-time sign predictions through a deployed web interface.
+
 **[SQORA](https://github.com/Elarionitis/sqora)** - AI-powered exam prep platform for JEE/NEET aspirants. Features a Gemini-powered tutor, auto-generated Manim math animations, mock exams, a contest arena, and local TTS - all wired together across a FastAPI backend, React frontend with Three.js, and a Manim worker service.
 
 **[Spendly](https://github.com/Elarionitis/Spendly)** - Flutter fintech app for personal and group expense management. Real-time Firestore sync, smart debt-simplification algorithm, interactive spending analytics with FL Chart, and Google Sign-In. Built with Riverpod state management and feature-first architecture.

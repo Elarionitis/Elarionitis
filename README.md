@@ -28,6 +28,8 @@ I'm a second-year CS undergrad who genuinely enjoys the process of figuring out 
 
 **[Spendly](https://github.com/Elarionitis/Spendly)** - Flutter fintech app for personal and group expense management. Real-time Firestore sync, smart debt-simplification algorithm, interactive spending analytics with FL Chart, and Google Sign-In. Built with Riverpod state management and feature-first architecture.
 
+**[TradStrat](https://github.com/Elarionitis/TradStrat)** - A Python trading strategy backtester for loading historical market data, simulating strategies, and evaluating performance with trading metrics.
+
 **[Dirac Delivery: Hamiltonian Route Visualizer](https://github.com/Elarionitis/Hamiltonian-Route-Visualizer)** - Interactive Streamlit app that models delivery networks as graphs and explores Hamiltonian cycles via Dirac's Theorem, brute-force search, and a nearest-neighbour heuristic. Built to connect graph theory with real-world routing problems.
 
 **[Plagiarism Checker](https://github.com/Elarionitis/Code_plagiarism_checker)** - Full-stack plagiarism detection tool with a C++ core for sliding-window text similarity analysis, bridged to a minimal web UI via a Node.js/Express server.

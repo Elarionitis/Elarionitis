@@ -91,6 +91,5 @@ I am always reading, researching, or building something new. Currently, my mind 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2F363D&label=Profile%20Views&v=3" alt="Profile Views" />
 <br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Elarionitis.Elarionitis" alt="Visitors Backup" />
 
 </div>

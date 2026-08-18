@@ -89,6 +89,8 @@ I am always reading, researching, or building something new. Currently, my mind 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elarionitis&theme=transparent&hide_border=true&stroke=0000&ring=2F363D&fire=2F363D&currStreakLabel=2F363D" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2F363D&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2F363D&label=Profile%20Views&v=3" alt="Profile Views" />
+<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Elarionitis.Elarionitis" alt="Visitors Backup" />
 
 </div>

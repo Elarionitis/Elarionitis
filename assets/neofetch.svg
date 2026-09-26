@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="275" viewBox="0 0 330 275" role="img" aria-labelledby="title desc">
+  <title id="title">Developer profile terminal</title>
+  <desc id="desc">Terminal-style technical profile for Suhan Ramani.</desc>
+  <rect width="330" height="275" rx="14" fill="#0b0f14"/>
+  <rect x="1" y="1" width="328" height="273" rx="13" fill="none" stroke="#263241"/>
+
+  <text x="20" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#64748b">system.profile</text>
+  <text x="20" y="51" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#60a5fa">────────────────────</text>
+
+  <text x="20" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700" fill="#60a5fa">SR</text>
+  <text x="62" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#f8fafc">suhan@iitj</text>
+  <text x="62" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#94a3b8">CS / builder</text>
+
+  <text x="20" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#60a5fa">domain</text>
+  <text x="82" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#cbd5e1">AI × systems</text>
+
+  <text x="20" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#60a5fa">research</text>
+  <text x="82" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#cbd5e1">consensus / distributed</text>
+
+  <text x="20" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#60a5fa">runtime</text>
+  <text x="82" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#cbd5e1">C++ / Python / TS</text>
+
+  <text x="20" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#60a5fa">infra</text>
+  <text x="82" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#cbd5e1">Linux / Docker / AWS</text>
+
+  <text x="20" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#60a5fa">curiosity</text>
+  <text x="82" y="209" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#cbd5e1">what happens underneath?</text>
+
+  <text x="20" y="239" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569">────────────────────</text>
+  <text x="20" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748b">status: shipping</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Suhan Ramani — AI systems and software engineering</title>
+  <desc id="desc">Minimal dark engineering banner with a blue systems diagram.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" rx="18" fill="#0b0f14"/>
+  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#263241"/>
+
+  <text x="42" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748b">ELARIONITIS / PROFILE</text>
+
+  <text x="42" y="104" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="750" fill="#f8fafc">Suhan Ramani</text>
+  <text x="44" y="137" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#94a3b8">AI systems · distributed systems · software engineering</text>
+
+  <rect x="42" y="170" width="260" height="1" fill="#334155"/>
+  <text x="42" y="199" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#60a5fa">IIT JODHPUR / COMPUTER SCIENCE</text>
+  <text x="42" y="223" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748b">building systems worth understanding</text>
+
+  <!-- architecture motif -->
+  <g stroke="url(#accent)" fill="none" stroke-width="2">
+    <path d="M650 72 L760 72 L760 108 L820 108"/>
+    <path d="M650 126 L720 126 L720 164 L820 164"/>
+    <path d="M650 180 L780 180 L780 214 L820 214"/>
+  </g>
+  <g fill="#60a5fa" filter="url(#glow)">
+    <circle cx="650" cy="72" r="5"/>
+    <circle cx="650" cy="126" r="5"/>
+    <circle cx="650" cy="180" r="5"/>
+    <circle cx="820" cy="108" r="5"/>
+    <circle cx="820" cy="164" r="5"/>
+    <circle cx="820" cy="214" r="5"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569">
+    <text x="650" y="59">AI</text>
+    <text x="650" y="113">SYSTEMS</text>
+    <text x="650" y="167">PRODUCT</text>
+  </g>
+
+  <rect x="42" y="239" width="816" height="1" fill="#17202b"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<rect width="900" height="260" rx="16" fill="#0b0f14"/>
+<rect x="1" y="1" width="898" height="258" rx="15" fill="none" stroke="#263241"/>
+<text x="40" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">3D contribution calendar</text>
+<text x="40" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#64748b">Run the GitHub Profile 3D Contrib workflow once to replace this placeholder.</text>
+<g transform="translate(40,125)" opacity=".85">
+  <path d="M0 80 L45 35 L90 80 L135 35 L180 80 L225 35 L270 80 L315 35 L360 80 L405 35 L450 80 L495 35 L540 80 L585 35 L630 80 L675 35 L720 80 L765 35" stroke="#2563eb" stroke-width="3" fill="none"/>
+  <g fill="#60a5fa">
+    <rect x="0" y="80" width="18" height="18" rx="3"/><rect x="45" y="35" width="18" height="18" rx="3"/>
+    <rect x="90" y="80" width="18" height="18" rx="3"/><rect x="135" y="35" width="18" height="18" rx="3"/>
+    <rect x="180" y="80" width="18" height="18" rx="3"/><rect x="225" y="35" width="18" height="18" rx="3"/>
+    <rect x="270" y="80" width="18" height="18" rx="3"/><rect x="315" y="35" width="18" height="18" rx="3"/>
+  </g>
+</g>
+</svg>

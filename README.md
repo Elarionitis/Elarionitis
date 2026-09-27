@@ -1,15 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/Elarionitis">
-  <img src="./assets/hero.svg" alt="Suhan Ramani — Software Engineer, AI/ML, Systems" width="900">
-</a>
+<img src="./assets/hero.svg" alt="Suhan Ramani — AI systems and software engineering" width="900">
 
 <br>
 
-<a href="https://www.iitj.ac.in/"><img src="https://img.shields.io/badge/IIT%20Jodhpur-111827?style=flat-square&logo=google-scholar&logoColor=white" alt="IIT Jodhpur"></a>
 <a href="https://www.linkedin.com/in/suhan-ramani-b82291323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:suhanramani@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/Elarionitis"><img src="https://img.shields.io/github/followers/Elarionitis?style=flat-square&label=Followers&color=0A66C2" alt="GitHub followers"></a>
+<a href="https://github.com/Elarionitis"><img src="https://img.shields.io/github/followers/Elarionitis?style=flat-square&label=followers&color=2563EB" alt="GitHub followers"></a>
+<img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2563EB&label=profile+views" alt="Profile views">
 
 </div>
 
@@ -17,23 +15,23 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### `whoami`
+## I build software from the model down to the machine.
 
-Computer Science student at **IIT Jodhpur** building across two layers:
+I'm a Computer Science student at **IIT Jodhpur**, interested in the boundary between **intelligent software and the systems that make it run**.
 
-**AI systems** — ML inference, developer tooling, context engineering  
-**Core systems** — operating systems, networking, concurrency, distributed systems
+My work tends to fall into four connected areas:
 
-I prefer understanding the mechanism behind the abstraction, then building with it.
+`AI systems` · `distributed systems` · `backend engineering` · `core systems`
 
-`build → inspect → break → improve`
+I like projects where the interesting part isn't just making the feature work, but understanding the machinery underneath it.
 
 </td>
-<td width="42%" valign="top">
 
-<img src="./assets/neofetch.svg" alt="Developer system information">
+<td width="38%" valign="top">
+
+<img src="./assets/neofetch.svg" alt="Developer profile">
 
 </td>
 </tr>
@@ -47,26 +45,31 @@ I prefer understanding the mechanism behind the abstraction, then building with 
 <tr>
 <td width="50%" valign="top">
 
-### SignEase
+### 01 / SignEase
+
 **Real-time sign language recognition**
 
-Webcam → MediaPipe landmarks → sequence model → prediction.
+Webcam landmarks → sequence model → sign prediction.
 
-`TensorFlow` `MediaPipe` `FastAPI` `Next.js`
+A full computer-vision inference pipeline built around temporal landmark sequences.
 
-[Repository](https://github.com/Elarionitis/SignEase)
+`TensorFlow` · `MediaPipe` · `FastAPI` · `Next.js`
+
+**[source →](https://github.com/Elarionitis/SignEase)**
 
 </td>
+
 <td width="50%" valign="top">
 
-### Orbit
-**Concurrent TCP communication system**
+### 02 / Orbit
 
-Multi-client socket communication with shared-state synchronization and message broadcasting.
+**Concurrent TCP communication**
 
-`C++` `POSIX Sockets` `Threads` `CMake`
+A multi-client communication system built around POSIX sockets, shared state and concurrent message broadcasting.
 
-[Repository](https://github.com/Elarionitis/Orbit)
+`C++` · `POSIX Sockets` · `Threads` · `CMake`
+
+**[source →](https://github.com/Elarionitis/Orbit)**
 
 </td>
 </tr>
@@ -74,26 +77,29 @@ Multi-client socket communication with shared-state synchronization and message 
 <tr>
 <td width="50%" valign="top">
 
-### Aeris
-**Environmental intelligence platform**
+### 03 / Aeris
 
-Turns air-quality data into forecasts, explainable pollution metrics and location-aware insights.
+**Environmental intelligence**
 
-`Python` `FastAPI` `React` `ML`
+Air-quality forecasting and explainable pollution insights combined with location-aware prioritization.
 
-[Repository](https://github.com/Elarionitis/aeris)
+`Python` · `FastAPI` · `React` · `ML`
+
+**[source →](https://github.com/Elarionitis/aeris)**
 
 </td>
+
 <td width="50%" valign="top">
 
-### Spendly
+### 04 / Spendly
+
 **Group expense management**
 
-Real-time group balances, expense tracking and debt simplification.
+Shared expenses, real-time balances and debt simplification in a mobile-first product.
 
-`Flutter` `Dart` `Firebase`
+`Flutter` · `Dart` · `Firebase`
 
-[Repository](https://github.com/Elarionitis/Spendly)
+**[source →](https://github.com/Elarionitis/Spendly)**
 
 </td>
 </tr>
@@ -101,14 +107,15 @@ Real-time group balances, expense tracking and debt simplification.
 <tr>
 <td colspan="2" valign="top">
 
-### SQORA
-**Interactive AI learning platform**
+### 05 / SQORA
 
-Generated learning content, mock examinations and mathematical visualizations.
+**Interactive AI learning**
 
-`React` `Three.js` `Gemini` `Manim`
+Generated learning content, mock examinations and mathematical visualizations in one learning environment.
 
-[Repository](https://github.com/Elarionitis/sqora)
+`React` · `Three.js` · `Gemini` · `Manim`
+
+**[source →](https://github.com/Elarionitis/sqora)**
 
 </td>
 </tr>
@@ -116,33 +123,39 @@ Generated learning content, mock examinations and mathematical visualizations.
 
 ---
 
-## What I'm building around
+## Engineering focus
 
-<table>
-<tr>
-<td><b>AI systems</b><br>Context engineering · MCP · agent workflows</td>
-<td><b>Distributed systems</b><br>Consensus · replication · fault tolerance</td>
-<td><b>Core systems</b><br>OS internals · networking · concurrency</td>
-</tr>
-</table>
-
-### Currently building
-
-> A small collection of systems-oriented experiments: tools that make AI workflows more context-aware, and low-level projects that make the abstractions underneath software easier to reason about.
-
-This section is intentionally short. The repositories are the source of truth.
+| AI | Distributed | Systems | Network |
+|---|---|---|---|
+| ML inference | Consensus | OS internals | TCP/IP |
+| Context engineering | Replication | Processes | Sockets |
+| MCP | Fault tolerance | Memory | Protocols |
+| Agent workflows | Leader election | Concurrency | Client/server |
 
 ---
 
-## Engineering stack
+## What I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart&theme=dark" alt="Languages">
-  <br>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs,flutter&theme=dark" alt="Frameworks">
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,linux,git,github,aws,firebase,vercel&theme=dark" alt="Tools and infrastructure">
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,linux,git,github,aws,firebase,vercel&theme=dark" alt="Infrastructure">
 </p>
+
+---
+
+## Currently exploring
+
+**Context-aware AI tooling**  
+Making coding agents understand repositories, constraints and useful context.
+
+**Distributed systems**  
+Consensus, replication and fault tolerance without relying on a single authority.
+
+**Low-level systems**  
+Operating systems, network protocols and the path from a high-level API to the machine.
 
 ---
 
@@ -160,16 +173,10 @@ This section is intentionally short. The repositories are the source of truth.
 
 ---
 
-## A principle I keep around
-
 <div align="center">
 
-> **"Build the thing. Trace what it does. Break the assumption. Improve the model."**
+### Build. Inspect. Break. Improve.
 
-</div>
+<sub>Computer Science · IIT Jodhpur · AI/ML · Systems Engineering</sub>
 
-<br>
-
-<div align="center">
-<sub>Software engineering · AI/ML · systems · distributed computing</sub>
 </div>

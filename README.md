@@ -123,17 +123,6 @@ Generated learning content, mock examinations and mathematical visualizations in
 
 ---
 
-## Engineering focus
-
-| AI | Distributed | Systems | Network |
-|---|---|---|---|
-| ML inference | Consensus | OS internals | TCP/IP |
-| Context engineering | Replication | Processes | Sockets |
-| MCP | Fault tolerance | Memory | Protocols |
-| Agent workflows | Leader election | Concurrency | Client/server |
-
----
-
 ## What I use
 
 <p align="center">

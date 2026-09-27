@@ -6,6 +6,7 @@
 
 <a href="https://www.linkedin.com/in/suhan-ramani-b82291323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:suhanramani@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://x.com/SuhanRamani09"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 <a href="https://github.com/Elarionitis"><img src="https://img.shields.io/github/followers/Elarionitis?style=flat-square&label=followers&color=2563EB" alt="GitHub followers"></a>
 <img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2563EB&label=profile+views" alt="Profile views">
 
@@ -152,9 +153,6 @@ Operating systems, network protocols and the path from a high-level API to the m
 
 <div align="center">
 
-<img src="./profile/metrics.svg" alt="GitHub metrics" width="900">
-
-<br><br>
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar" width="900">
 

@@ -1,48 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
-  <title id="title">Suhan Ramani — AI systems and software engineering</title>
-  <desc id="desc">Minimal dark engineering banner with a blue systems diagram.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Suhan Ramani — Software Engineer</title>
+  <desc id="desc">A dark engineering banner introducing software engineer Suhan Ramani, with a portrait and a subtle systems diagram.</desc>
   <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#2563eb"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="portraitClip"><circle cx="716" cy="180" r="98"/></clipPath>
   </defs>
+  <rect width="900" height="360" rx="18" fill="#0b0f14"/>
+  <rect x="1" y="1" width="898" height="358" rx="17" fill="none" stroke="#263241"/>
 
-  <rect width="900" height="260" rx="18" fill="#0b0f14"/>
-  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#263241"/>
+  <text x="46" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748b">ELARIONITIS / BENGALURU, INDIA</text>
+  <text x="46" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="40" font-weight="750" fill="#f8fafc">Suhan Ramani</text>
+  <text x="46" y="163" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.4" fill="#f8fafc">Software Engineer</text>
+  <text x="48" y="202" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#94a3b8">Building full-stack products, intelligent systems &amp; things that ship.</text>
+  <rect x="46" y="235" width="474" height="1" fill="#334155"/>
+  <text x="46" y="265" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#60a5fa">FULL-STACK / AI SYSTEMS / INFRASTRUCTURE</text>
+  <text x="46" y="293" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" fill="#94a3b8">Build. Inspect. Break. Improve.</text>
 
-  <text x="42" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748b">ELARIONITIS / PROFILE</text>
-
-  <text x="42" y="104" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="750" fill="#f8fafc">Suhan Ramani</text>
-  <text x="44" y="137" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#94a3b8">AI systems · distributed systems · software engineering</text>
-
-  <rect x="42" y="170" width="260" height="1" fill="#334155"/>
-  <text x="42" y="199" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#60a5fa">IIT JODHPUR / COMPUTER SCIENCE</text>
-  <text x="42" y="223" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#64748b">building systems worth understanding</text>
-
-  <!-- architecture motif -->
-  <g stroke="url(#accent)" fill="none" stroke-width="2">
-    <path d="M650 72 L760 72 L760 108 L820 108"/>
-    <path d="M650 126 L720 126 L720 164 L820 164"/>
-    <path d="M650 180 L780 180 L780 214 L820 214"/>
+  <!-- portrait and deliberately restrained system orbit -->
+  <g fill="none" stroke="url(#accent)">
+    <circle cx="716" cy="180" r="115" stroke-width="1" opacity=".48"/><circle cx="716" cy="180" r="126" stroke-width="1" stroke-dasharray="3 9" opacity=".34"/>
+    <path d="M587 130H562V104H540M829 139H852V164H870M608 255H579V283H550" stroke-width="2" opacity=".62"/>
   </g>
-  <g fill="#60a5fa" filter="url(#glow)">
-    <circle cx="650" cy="72" r="5"/>
-    <circle cx="650" cy="126" r="5"/>
-    <circle cx="650" cy="180" r="5"/>
-    <circle cx="820" cy="108" r="5"/>
-    <circle cx="820" cy="164" r="5"/>
-    <circle cx="820" cy="214" r="5"/>
-  </g>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569">
-    <text x="650" y="59">AI</text>
-    <text x="650" y="113">SYSTEMS</text>
-    <text x="650" y="167">PRODUCT</text>
-  </g>
-
-  <rect x="42" y="239" width="816" height="1" fill="#17202b"/>
+  <g fill="#60a5fa" filter="url(#glow)"><circle cx="587" cy="130" r="4"/><circle cx="540" cy="104" r="4"/><circle cx="829" cy="139" r="4"/><circle cx="870" cy="164" r="4"/><circle cx="608" cy="255" r="4"/><circle cx="550" cy="283" r="4"/></g>
+  <circle cx="716" cy="180" r="104" fill="#111827" stroke="#60a5fa" stroke-width="2"/>
+  <image href="profile.jpg" x="618" y="82" width="196" height="196" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)"/>
+  <circle cx="716" cy="180" r="98" fill="none" stroke="#93c5fd" stroke-opacity=".52"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#475569"><text x="530" y="92">BUILD</text><text x="838" y="130">SHIP</text><text x="532" y="300">ITERATE</text></g>
+  <rect x="46" y="322" width="808" height="1" fill="#17202b"/>
 </svg>

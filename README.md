@@ -1,169 +1,77 @@
-<div align="center">
+<a href="https://elarx.dev"><img src="./assets/header.svg" alt="Suhan Ramani — Software Engineer. I build backend systems that stay fast once they get big." width="100%"></a>
 
-<img src="./assets/hero.svg" alt="Suhan Ramani — AI systems and software engineering" width="900">
-
-<br>
-
-<a href="https://www.linkedin.com/in/suhan-ramani-b82291323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:suhanramani@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://x.com/SuhanRamani09"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-<a href="https://github.com/Elarionitis"><img src="https://img.shields.io/github/followers/Elarionitis?style=flat-square&label=followers&color=2563EB" alt="GitHub followers"></a>
-<img src="https://komarev.com/ghpvc/?username=Elarionitis&style=flat-square&color=2563EB&label=profile+views" alt="Profile views">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-## I build software from the model down to the machine.
-
-I'm a Computer Science student at **IIT Jodhpur**, interested in the boundary between **intelligent software and the systems that make it run**.
-
-My work tends to fall into four connected areas:
-
-`AI systems` · `distributed systems` · `backend engineering` · `core systems`
-
-I like projects where the interesting part isn't just making the feature work, but understanding the machinery underneath it.
-
-</td>
-
-<td width="38%" valign="top">
-
-<img src="./assets/neofetch.svg" alt="Developer profile">
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / SignEase
-
-**Real-time sign language recognition**
-
-Webcam landmarks → sequence model → sign prediction.
-
-A full computer-vision inference pipeline built around temporal landmark sequences.
-
-`TensorFlow` · `MediaPipe` · `FastAPI` · `Next.js`
-
-**[source →](https://github.com/Elarionitis/SignEase)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 / Orbit
-
-**Concurrent TCP communication**
-
-A multi-client communication system built around POSIX sockets, shared state and concurrent message broadcasting.
-
-`C++` · `POSIX Sockets` · `Threads` · `CMake`
-
-**[source →](https://github.com/Elarionitis/Orbit)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 / Aeris
-
-**Environmental intelligence**
-
-Air-quality forecasting and explainable pollution insights combined with location-aware prioritization.
-
-`Python` · `FastAPI` · `React` · `ML`
-
-**[source →](https://github.com/Elarionitis/aeris)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 / Spendly
-
-**Group expense management**
-
-Shared expenses, real-time balances and debt simplification in a mobile-first product.
-
-`Flutter` · `Dart` · `Firebase`
-
-**[source →](https://github.com/Elarionitis/Spendly)**
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 05 / SQORA
-
-**Interactive AI learning**
-
-Generated learning content, mock examinations and mathematical visualizations in one learning environment.
-
-`React` · `Three.js` · `Gemini` · `Manim`
-
-**[source →](https://github.com/Elarionitis/sqora)**
-
-</td>
-</tr>
-</table>
-
----
-
-## What I use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart&theme=dark" alt="Languages">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs,flutter&theme=dark" alt="Frameworks">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,linux,git,github,aws,firebase,vercel&theme=dark" alt="Infrastructure">
+<p>
+  <a href="https://elarx.dev"><img src="https://img.shields.io/badge/elarx.dev-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://elarx.dev/writing"><img src="https://img.shields.io/badge/Writing-0f172a?style=flat-square&logo=rss&logoColor=white" alt="Writing"></a>
+  <a href="https://www.linkedin.com/in/suhan-ramani-b82291323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/SuhanRamani09"><img src="https://img.shields.io/badge/@SuhanRamani09-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:suhanramani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://elarx.dev/resume"><img src="https://img.shields.io/badge/Résumé-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Résumé"></a>
 </p>
 
----
+I'm a Computer Science undergrad at **IIT Jodhpur** working on **distributed systems, retrieval pipelines and AI infrastructure**. I care about the part of a system that breaks first under load, and I like to write down why it broke.
 
-## Currently exploring
+I build in public. Everything below is real work with real numbers, and I post what I learn while building it at [elarx.dev/writing](https://elarx.dev/writing) and on [X](https://x.com/SuhanRamani09).
 
-**Context-aware AI tooling**  
-Making coding agents understand repositories, constraints and useful context.
+> **Open to SDE and AI/ML internships.** The fastest way to reach me is [email](mailto:suhanramani@gmail.com).
 
-**Distributed systems**  
-Consensus, replication and fault tolerance without relying on a single authority.
+<br>
 
-**Low-level systems**  
-Operating systems, network protocols and the path from a high-level API to the machine.
+## Featured work
 
----
+| Project | What it does |
+| :-- | :-- |
+| **[CareQueue](https://github.com/Elarionitis/CareQueue)**<br><sub>`TypeScript` `Next.js` `React` `Risk modelling`</sub> | Continuous triage and waiting-room surveillance for emergency departments. In CDC's 2022 NHAMCS data, **45.8%** of critical outcomes came from patients triaged as low acuity. CareQueue scores risk from *outcomes* rather than nurse labels, and rules set a floor the model can only escalate. On held-out data it catches **56.7%** of critical outcomes vs **39.0%** for the baseline, and actions are logged to a SHA-256 hash chain for audit.<br><sub>Team lead, Team InnovX · Accenture Innovation Challenge, Round 2</sub> |
+| **[SignEase](https://github.com/Elarionitis/SignEase)**<br><sub>`TensorFlow` `MediaPipe` `FastAPI` `React`</sub> | Real-time ASL recognition from a webcam. Hand landmarks are extracted in the browser and sent as sequences to a Transformer behind a FastAPI inference service over WebSocket. **96%+** accuracy across 26 classes at **<100 ms per frame**. Quantisation made the model **4×** smaller and raised throughput by **40%**, for under 2% accuracy loss.<br><sub>[Live demo](https://sign-ease-eight.vercel.app)</sub> |
+| **[Spendly](https://github.com/Elarionitis/Spendly)**<br><sub>`Flutter` `Dart` `Riverpod` `Firestore`</sub> | A shared expense tracker built as an **event-sourced, append-only ledger**. Balances are a fold over the event log, so concurrent edits can't conflict and no locks are needed. A min-cash-flow pass settles a group of *n* people in at most **n − 1** payments, up to **70%** fewer than paying everyone back pairwise. |
+| **[Aeris](https://github.com/Elarionitis/aeris)**<br><sub>`Python` `XGBoost` `FastAPI` `React` `Docker`</sub> | Air-quality decision support: ward-level AQI forecasts up to 72 hours ahead with prediction intervals, NNLS source attribution (traffic, construction, industry, thermal), and a ranked list of sites to inspect. *Forecast → Explain → Prioritise → Act.* |
 
-## GitHub activity
+## Systems and tools
 
-<div align="center">
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**Repo Context MCP**](https://github.com/Elarionitis/repo-context-mcp) | MCP server that gives coding agents repository metadata, README content and stack signals as structured context | TypeScript · MCP SDK · GitHub API |
+| [**Orbit**](https://github.com/Elarionitis/Orbit) | Multi-client TCP chat server with one thread per connection, shared state and broadcast | C++17 · POSIX sockets · CMake |
+| [**LLVMShield**](https://github.com/Elarionitis/LLVMShield) | LLVM pass plugin with string encryption, bogus functions, symbol renaming and dead code. I built it to learn LLVM internals | C++ · LLVM · Python |
+| [**OS Labs**](https://github.com/Elarionitis/OS) | Processes, scheduling, pthreads, semaphores, paging, and page replacement (FIFO / LRU / Optimal) | C · Linux |
+| [**TradStrat**](https://github.com/Elarionitis/TradStrat) | Event-driven backtester with next-day-open execution, commission, drawdown and risk metrics | Python · Streamlit |
+| [**elarx.dev**](https://github.com/Elarionitis/ElaRx) | My site and blog. Markdown posts, where publishing is a commit | Next.js 16 · React 19 · Tailwind v4 |
 
+## Experience
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar" width="900">
+**Software Development Engineer Intern** · Webify Design · *May – Jun 2026*<br>
+Shipped features across 5+ production web apps. Fixed N+1 queries and reindexed MySQL on the busiest endpoints, cutting read latency by about **35%**.
 
-</div>
+**Student Developer** · SQORA (Winter of Code) · *Dec 2025 – Apr 2026*<br>
+Built a RAG pipeline on Gemini and Qdrant: **500+** documents indexed with **sub-500 ms** end-to-end retrieval, async FastAPI ingestion, and validation that stopped every embedding failure seen in testing.
 
----
+## Build log
 
-<div align="center">
+What I've shipped recently, newest first. I post the longer write-ups at [elarx.dev/writing](https://elarx.dev/writing).
 
-### Build. Inspect. Break. Improve.
+| When | What |
+| :-- | :-- |
+| Oct 2026 | Launched **[elarx.dev](https://elarx.dev)**, my site and engineering blog |
+| Oct 2026 | Finished OS labs on paging, demand paging and page replacement |
+| Oct 2026 | Updated SignEase's ASL recognition pipeline and frontend |
+| Aug 2026 | Shipped the CareQueue prototype for the Accenture Innovation Challenge |
+| Aug 2026 | Released Aeris, an AQI forecasting and attribution platform |
 
-<sub>Computer Science · IIT Jodhpur · AI/ML · Systems Engineering</sub>
+**Now:** operating system internals (xv6), memory hierarchy and cache behaviour, and making retrieval pipelines fast.
 
-</div>
+## Toolkit
+
+**Languages:** C++ · C · Python · TypeScript · JavaScript · Java · Dart · SQL<br>
+**Backend and infrastructure:** FastAPI · Node.js · PostgreSQL · MySQL · MongoDB · Firestore · Docker · Linux · AWS · Vercel<br>
+**ML and AI:** TensorFlow · XGBoost · MediaPipe · RAG · Qdrant · Gemini API · MCP<br>
+**Frontend and mobile:** React · Next.js · Tailwind · Flutter
+
+## Outside the editor
+
+- Overall Coordinator, **Anand Rathi Tinkerers' Lab**, IIT Jodhpur, the institute's 3,000+ sq. ft. makerspace
+- Core team, **Programming Society**: I set 10+ contest problems on Codeforces Polygon and mentor juniors
+- **JEE Advanced 2024: AIR 397** · 500+ competitive programming problems · [Codeforces](https://codeforces.com/profile/Suhan_Ramani) max rating 1319
+
+<br>
+
+<sub>Updated October 2026 · Reach me at <a href="mailto:suhanramani@gmail.com">suhanramani@gmail.com</a></sub>

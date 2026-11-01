@@ -23,6 +23,13 @@ def fetch(url):
         return json.load(resp)
 
 
+def shorten(text, limit=80):
+    text = " ".join(text.split())
+    if len(text) <= limit:
+        return text
+    return text[:limit].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
+
+
 def recent_repos(repos):
     own = [
         r for r in repos
@@ -34,7 +41,7 @@ def recent_repos(repos):
         day = datetime.strptime(r["pushed_at"], "%Y-%m-%dT%H:%M:%SZ").strftime("%b %-d, %Y")
         line = f"[{r['name']}]({r['html_url']}) · {day}"
         if r.get("description"):
-            line += f"<br><sub>{r['description'].strip()}</sub>"
+            line += f"<br><sub>{shorten(r['description'])}</sub>"
         lines.append(line)
     return "\n\n".join(lines)
 

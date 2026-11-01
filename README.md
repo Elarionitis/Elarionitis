@@ -84,15 +84,15 @@ Right now I'm moving from building my own projects to **contributing to open sou
 <!-- recent_repos starts -->
 [ElaRx](https://github.com/Elarionitis/ElaRx) · Oct 28, 2026<br><sub>My portfolio website</sub>
 
-[OS](https://github.com/Elarionitis/OS) · Oct 27, 2026<br><sub>Operating Systems lab work, assignments, and C implementations covering processes, system calls, scheduling, synchronization, memory management, and file systems.</sub>
+[OS](https://github.com/Elarionitis/OS) · Oct 27, 2026<br><sub>Operating Systems lab work, assignments, and C implementations covering…</sub>
 
-[SignEase](https://github.com/Elarionitis/SignEase) · Oct 27, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets users record hand gestures through their webcam and receive AI-powered sign predictions using a Flask ML backend with MediaPipe landmark extraction and TensorFlow Lite inference.</sub>
+[SignEase](https://github.com/Elarionitis/SignEase) · Oct 27, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 
 [CareQueue](https://github.com/Elarionitis/CareQueue) · Aug 30, 2026
 
-[aeris](https://github.com/Elarionitis/aeris) · Aug 17, 2026<br><sub>AI-powered air-quality intelligence platform for AQI forecasting, pollution attribution, inspection prioritization, and citizen advisories.</sub>
+[aeris](https://github.com/Elarionitis/aeris) · Aug 17, 2026<br><sub>AI-powered air-quality intelligence platform for AQI forecasting, pollution…</sub>
 
-[Spendly](https://github.com/Elarionitis/Spendly) · Aug 7, 2026<br><sub>Spendly is a Flutter-based expense management app that helps users track, split, and manage shared expenses efficiently with real-time data syncing and authentication.</sub>
+[Spendly](https://github.com/Elarionitis/Spendly) · Aug 7, 2026<br><sub>Spendly is a Flutter-based expense management app that helps users track…</sub>
 <!-- recent_repos ends -->
 
 <sub>Updated daily from my public repositories.</sub>

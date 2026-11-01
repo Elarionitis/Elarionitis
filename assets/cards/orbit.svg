@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="Orbit: A multi-client TCP chat server in C++, one thread per connection.">
+  <title>Orbit</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".14"/><stop offset=".55" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
+  <rect width="440" height="200" rx="14" fill="#0b0f14"/>
+  <rect width="440" height="200" rx="14" fill="url(#g)"/>
+  <rect x=".5" y=".5" width="439" height="199" rx="13.5" fill="none" stroke="#263241"/>
+  <rect x="24" y="0" width="36" height="3" rx="1.5" fill="#22d3ee"/>
+  <text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#22d3ee">06</text>
+  <text x="48" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64748b">/ SYSTEMS · NETWORKING</text>
+  <text x="24" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#f8fafc" letter-spacing="-.4">Orbit</text>
+  <text x="24" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#9aa7b8">A multi-client TCP chat server in C++,</text><text x="24" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#9aa7b8">one thread per connection.</text>
+  <circle cx="370" cy="74" r="34" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-dasharray="3 5"/><circle cx="370" cy="74" r="7" fill="#22d3ee"/><g><circle cx="404" cy="74" r="4" fill="#22d3ee"/><animateTransform attributeName="transform" type="rotate" from="0 370 74" to="360 370 74" dur="8s" repeatCount="indefinite"/></g><g><circle cx="336" cy="74" r="3" fill="#22d3ee" fill-opacity=".7"/><animateTransform attributeName="transform" type="rotate" from="0 370 74" to="360 370 74" dur="13s" repeatCount="indefinite"/></g>
+  <rect x="24" y="152" width="51" height="22" rx="11" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".35"/><text x="49.5" y="167" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22d3ee">C++17</text><rect x="83" y="152" width="103" height="22" rx="11" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".35"/><text x="134.5" y="167" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22d3ee">POSIX sockets</text><rect x="194" y="152" width="51" height="22" rx="11" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".35"/><text x="219.5" y="167" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22d3ee">CMake</text>
+</svg>

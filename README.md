@@ -82,11 +82,11 @@ Right now I'm moving from building my own projects to **contributing to open sou
 ### 🛠️ Recently pushed
 
 <!-- recent_repos starts -->
+[SignEase](https://github.com/Elarionitis/SignEase) · Nov 2, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
+
 [ElaRx](https://github.com/Elarionitis/ElaRx) · Oct 28, 2026<br><sub>My portfolio website</sub>
 
 [OS](https://github.com/Elarionitis/OS) · Oct 27, 2026<br><sub>Operating Systems lab work, assignments, and C implementations covering…</sub>
-
-[SignEase](https://github.com/Elarionitis/SignEase) · Oct 27, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 
 [CareQueue](https://github.com/Elarionitis/CareQueue) · Aug 30, 2026
 

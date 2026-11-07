@@ -82,6 +82,8 @@ Right now I'm moving from building my own projects to **contributing to open sou
 ### 🛠️ Recently pushed
 
 <!-- recent_repos starts -->
+[TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 7, 2026<br><sub>TradStrat is a Python-based trading strategy backtesting framework built to…</sub>
+
 [SignEase](https://github.com/Elarionitis/SignEase) · Nov 4, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 
 [ElaRx](https://github.com/Elarionitis/ElaRx) · Oct 28, 2026<br><sub>My portfolio website</sub>
@@ -91,8 +93,6 @@ Right now I'm moving from building my own projects to **contributing to open sou
 [CareQueue](https://github.com/Elarionitis/CareQueue) · Aug 30, 2026
 
 [aeris](https://github.com/Elarionitis/aeris) · Aug 17, 2026<br><sub>AI-powered air-quality intelligence platform for AQI forecasting, pollution…</sub>
-
-[Spendly](https://github.com/Elarionitis/Spendly) · Aug 7, 2026<br><sub>Spendly is a Flutter-based expense management app that helps users track…</sub>
 <!-- recent_repos ends -->
 
 <sub>Updated daily from my public repositories.</sub>

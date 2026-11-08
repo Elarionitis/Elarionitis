@@ -82,9 +82,9 @@ Right now I'm moving from building my own projects to **contributing to open sou
 ### 🛠️ Recently pushed
 
 <!-- recent_repos starts -->
-[TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 7, 2026<br><sub>TradStrat is a Python-based trading strategy backtesting framework built to…</sub>
+[SignEase](https://github.com/Elarionitis/SignEase) · Nov 8, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 
-[SignEase](https://github.com/Elarionitis/SignEase) · Nov 4, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
+[TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 7, 2026<br><sub>TradStrat is a Python-based trading strategy backtesting framework built to…</sub>
 
 [ElaRx](https://github.com/Elarionitis/ElaRx) · Oct 28, 2026<br><sub>My portfolio website</sub>
 

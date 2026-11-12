@@ -82,13 +82,13 @@ Right now I'm moving from building my own projects to **contributing to open sou
 ### 🛠️ Recently pushed
 
 <!-- recent_repos starts -->
+[ElaRx](https://github.com/Elarionitis/ElaRx) · Nov 11, 2026<br><sub>My portfolio website</sub>
+
 [SignEase](https://github.com/Elarionitis/SignEase) · Nov 9, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 
 [Orbit](https://github.com/Elarionitis/Orbit) · Nov 8, 2026<br><sub>Orbit - A lightweight multi-client TCP chat application built in C++17 using…</sub>
 
 [TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 7, 2026<br><sub>TradStrat is a Python-based trading strategy backtesting framework built to…</sub>
-
-[ElaRx](https://github.com/Elarionitis/ElaRx) · Oct 28, 2026<br><sub>My portfolio website</sub>
 
 [OS](https://github.com/Elarionitis/OS) · Oct 27, 2026<br><sub>Operating Systems lab work, assignments, and C implementations covering…</sub>
 

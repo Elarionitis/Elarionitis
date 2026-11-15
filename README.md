@@ -75,9 +75,9 @@ Built the retrieval behind the platform's AI answers with Gemini and Qdrant: **5
 ## Recently shipped
 
 <!-- recent_repos starts -->
-[TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 14, 2026<br><sub>TradStrat is a Python-based trading strategy backtesting framework built to…</sub>
+[TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 15, 2026<br><sub>Backtest a trading idea on real prices, then find out whether to believe it…</sub>
 
-[ElaRx](https://github.com/Elarionitis/ElaRx) · Nov 14, 2026<br><sub>My portfolio website</sub>
+[ElaRx](https://github.com/Elarionitis/ElaRx) · Nov 15, 2026<br><sub>My portfolio website</sub>
 
 [SignEase](https://github.com/Elarionitis/SignEase) · Nov 9, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
 

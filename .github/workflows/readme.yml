@@ -1,0 +1,32 @@
+name: Refresh README
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [README.md, scripts/**, .github/workflows/readme.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_readme.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "Suhan Ramani"
+          git config user.email "suhanramani@gmail.com"
+          git commit -am "Refresh recent activity"
+          git push

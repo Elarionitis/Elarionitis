@@ -75,17 +75,17 @@ Built the retrieval behind the platform's AI answers with Gemini and Qdrant: **5
 ## Recently shipped
 
 <!-- recent_repos starts -->
+[aeris](https://github.com/Elarionitis/aeris) · Nov 17, 2026<br><sub>AI-powered air-quality intelligence platform for AQI forecasting, pollution…</sub>
+
+[SignEase](https://github.com/Elarionitis/SignEase) · Nov 17, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
+
 [repo-context-mcp](https://github.com/Elarionitis/repo-context-mcp) · Nov 17, 2026<br><sub>Lightweight MCP server that fetches GitHub repository context and converts it…</sub>
 
 [TradStrat](https://github.com/Elarionitis/TradStrat) · Nov 15, 2026<br><sub>Backtest a trading idea on real prices, then find out whether to believe it…</sub>
 
-[SignEase](https://github.com/Elarionitis/SignEase) · Nov 9, 2026<br><sub>SignEase is a real-time sign language recognition web application that lets…</sub>
-
 [Orbit](https://github.com/Elarionitis/Orbit) · Nov 8, 2026<br><sub>Orbit - A lightweight multi-client TCP chat application built in C++17 using…</sub>
 
 [OS](https://github.com/Elarionitis/OS) · Oct 27, 2026<br><sub>Operating Systems lab work, assignments, and C implementations covering…</sub>
-
-[CareQueue](https://github.com/Elarionitis/CareQueue) · Aug 30, 2026
 <!-- recent_repos ends -->
 
 <sub>Updated daily from my public repositories.</sub>
